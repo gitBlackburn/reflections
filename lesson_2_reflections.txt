@@ -1,0 +1,6 @@
+What happens when you intialize a repository? Why do you need to do it?
+
+When you intialize a repository you create a .git folder that will begin
+to create a version log when you use the git commit function. You need to 
+do it so that git will know you want to begin using git version control on
+this directory.

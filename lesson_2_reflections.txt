@@ -21,3 +21,9 @@ Branches are helpful for when multiple people are working on the same project. T
 could be working on the same project at the same time but on different branches. Branches could
 also be used to fork projects that go in a completely different direction from what the project author
 orginally intended. You could do that by never megering the branches.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams can help clearly show where indivdual branches diverge and merge. They can give a clearer
+picture to people who are just learning how to use git. With the visualization I was able to get
+a better idea of what checking out to indvidual commits and other branches really means.

@@ -13,3 +13,11 @@ two files.... index.html and script.js and you make one change to each file. Ins
 committing them both at the same time you could add just one file to the staging area, commit
 that one and add a useful commit message to it and then do the same for the second file in 
 a different commit.
+
+What are some situations when branches would be helpful in keeping your history oranized?
+How would branches help?
+
+Branches are helpful for when multiple people are working on the same project. Two or more people
+could be working on the same project at the same time but on different branches. Branches could
+also be used to fork projects that go in a completely different direction from what the project author
+orginally intended. You could do that by never megering the branches.

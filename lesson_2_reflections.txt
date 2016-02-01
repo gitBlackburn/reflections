@@ -4,3 +4,12 @@ When you intialize a repository you create a .git folder that will begin
 to create a version log when you use the git commit function. You need to 
 do it so that git will know you want to begin using git version control on
 this directory.
+
+How can you use the staging area to make sure you have on commit per logical change?
+
+You can use the staging area to ensure that you have one commit per logical change by
+limitting how many files you commit to at a time. For example if you have a project with 
+two files.... index.html and script.js and you make one change to each file. Instead of 
+committing them both at the same time you could add just one file to the staging area, commit
+that one and add a useful commit message to it and then do the same for the second file in 
+a different commit.

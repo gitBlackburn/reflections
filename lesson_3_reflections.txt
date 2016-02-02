@@ -8,3 +8,10 @@ Why might you want to always pull changes manually rather than having Git automa
 with your remote repository?
 
 -Maybe you might want to test out features locally before making them publically available.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+-Clones, make copies of all current files in a given directory along with their histories. 
+-Forks are similar to clones but they are hosted directly on gitHub.
+-Branches diverge from the main branches of a project. They can be useful for testing out new features that
+might not yet be ready for the main live project.

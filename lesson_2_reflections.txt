@@ -1,6 +1,6 @@
-What happens when you intialize a repository? Why do you need to do it?
+What happens when you initialize a repository? Why do you need to do it?
 
-When you intialize a repository you create a .git folder that will begin
+When you initialize a repository you create a .git folder that will begin
 to create a version log when you use the git commit function. You need to 
 do it so that git will know you want to begin using git version control on
 this directory.
@@ -14,19 +14,19 @@ committing them both at the same time you could add just one file to the staging
 that one and add a useful commit message to it and then do the same for the second file in 
 a different commit.
 
-What are some situations when branches would be helpful in keeping your history oranized?
+What are some situations when branches would be helpful in keeping your history organized?
 How would branches help?
 
 Branches are helpful for when multiple people are working on the same project. Two or more people
 could be working on the same project at the same time but on different branches. Branches could
 also be used to fork projects that go in a completely different direction from what the project author
-orginally intended. You could do that by never megering the branches.
+originally intended. You could do that by never merging the branches.
 
 How do the diagrams help you visualize the branch structure?
 
-Diagrams can help clearly show where indivdual branches diverge and merge. They can give a clearer
+Diagrams can help clearly show where individual branches diverge and merge. They can give a clearer
 picture to people who are just learning how to use git. With the visualization I was able to get
-a better idea of what checking out to indvidual commits and other branches really means.
+a better idea of what checking out to individual commits and other branches really means.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way
 we do?
@@ -37,5 +37,5 @@ this way to make it clear to the student.
 
 What are the pros and cons of Git's automatic merging vs. doing merges manually?
 
-Manually merging can allow the devlopers to give note to what they want to keep and what they want to
+Manually merging can allow the developers to give note to what they want to keep and what they want to
 discard. Automatic merging would be faster however.

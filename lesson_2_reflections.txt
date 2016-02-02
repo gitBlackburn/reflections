@@ -27,3 +27,10 @@ How do the diagrams help you visualize the branch structure?
 Diagrams can help clearly show where indivdual branches diverge and merge. They can give a clearer
 picture to people who are just learning how to use git. With the visualization I was able to get
 a better idea of what checking out to indvidual commits and other branches really means.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way
+we do?
+
+When we merge to branches together we are combing all changes made to those two branches and merging their
+commit histories. This is represented on the diagram as the two branches converging into one line. It done 
+this way to make it clear to the student.

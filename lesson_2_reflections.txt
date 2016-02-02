@@ -34,3 +34,8 @@ we do?
 When we merge to branches together we are combing all changes made to those two branches and merging their
 commit histories. This is represented on the diagram as the two branches converging into one line. It done 
 this way to make it clear to the student.
+
+What are the pros and cons of Git's automatic merging vs. doing merges manually?
+
+Manually merging can allow the devlopers to give note to what they want to keep and what they want to
+discard. Automatic merging would be faster however.

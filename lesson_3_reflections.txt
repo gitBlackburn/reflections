@@ -15,3 +15,8 @@ Describe the differences between forks, clones, and branches. When would you use
 -Forks are similar to clones but they are hosted directly on gitHub.
 -Branches diverge from the main branches of a project. They can be useful for testing out new features that
 might not yet be ready for the main live project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+-Maybe the main reason why it is a benefit is so that you can access the local version of the remote 
+when you are somewhere you cannot get access to the internet.

@@ -24,3 +24,11 @@ when you are somewhere you cannot get access to the internet.
 How would you collaborate without using Git or GitHub? What would be easier and what would be harder?
 -There are other types of version control systems like... svn(subversion) for example. That could be used.
 I however have never used svn so I am unsure if it is easier or harder to use then git/gitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits
+does each approach have?
+-Making changes to a separate branch allows the user to make changes without risking breaking the master branch
+of the project.
+-It also allows collaborators to fix any merge conflicts that might occur before official merging them with the
+master branch.
+-Merging directly in the master branch might save time for minor changes to the project.
